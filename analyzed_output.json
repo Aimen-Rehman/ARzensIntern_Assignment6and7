@@ -1,0 +1,14 @@
+[
+    {
+        "log": "Failed password for invalid user admin from 192.168.1.50 port 52210 ssh2",
+        "summary": "Dry-run simulation summary",
+        "severity": "Low",
+        "recommended_action": "None"
+    },
+    {
+        "log": "Multiple SQL injection attempts detected targeting parameter 'id' from IP 203.0.113.42",
+        "summary": "Dry-run simulation summary",
+        "severity": "Low",
+        "recommended_action": "None"
+    }
+]

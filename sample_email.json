@@ -1,0 +1,6 @@
+{
+  "sender": "security-alert@malicious-phish-domain.com",
+  "subject": "Urgent: Verify your corporate account credentials immediately",
+  "body": "Click the link below to reset your password or lose access.",
+  "attachment_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

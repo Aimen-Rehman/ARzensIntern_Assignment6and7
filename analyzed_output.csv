@@ -1,0 +1,3 @@
+Log,Summary,Severity,Recommended Action
+Failed password for invalid user admin from 192.168.1.50 port 52210 ssh2,Dry-run simulation summary,Low,None
+Multiple SQL injection attempts detected targeting parameter 'id' from IP 203.0.113.42,Dry-run simulation summary,Low,None

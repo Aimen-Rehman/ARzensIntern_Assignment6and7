@@ -1,0 +1,6 @@
+{"timestamp": "2026-09-12T08:26:24.057096", "action": "INGEST", "details": "Processed email from security-alert@malicious-phish-domain.com"}
+{"timestamp": "2026-09-12T08:26:25.189968", "action": "RISK_SCORE", "details": "Score calculated: 90"}
+{"timestamp": "2026-09-12T08:26:25.191694", "action": "COMPLETED", "details": "Action taken: High Risk - Auto-block and Quarantine"}
+{"timestamp": "2026-09-12T08:34:25.591851", "action": "INGEST", "details": "Processed email from security-alert@malicious-phish-domain.com"}
+{"timestamp": "2026-09-12T08:34:26.639484", "action": "RISK_SCORE", "details": "Score calculated: 90"}
+{"timestamp": "2026-09-12T08:34:26.641501", "action": "COMPLETED", "details": "Action taken: High Risk - Auto-block and Quarantine"}

@@ -1,0 +1,3 @@
+malicious-phish-domain.com
+evil-creds-stealer.net
+fake-login-portal.org

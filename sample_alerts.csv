@@ -1,0 +1,5 @@
+alert_id,alert_text
+ALT-001,Critical malware payload execution blocked on endpoint WS-08
+ALT-002,Regular user logged in successfully during standard business hours
+ALT-003,Outbound connection to known Command and Control server IP detected
+ALT-004,Scheduled system backup completed without errors

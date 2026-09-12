@@ -1,0 +1,11 @@
+{
+  "playbooks": [
+    {
+      "id": "phishing-resp-01",
+      "name": "Automated Phishing Response Playbook",
+      "type": "Incident Response",
+      "script": "phishing_playbook.py",
+      "status": "Active"
+    }
+  ]
+}

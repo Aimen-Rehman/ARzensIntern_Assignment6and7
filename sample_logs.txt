@@ -1,0 +1,2 @@
+Failed password for invalid user admin from 192.168.1.50 port 52210 ssh2
+Multiple SQL injection attempts detected targeting parameter 'id' from IP 203.0.113.42
